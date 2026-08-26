@@ -127,7 +127,7 @@ function NavBar() {
           <div className="relative flex items-center justify-center">
             <div className="absolute -inset-1 rounded-full bg-[#00ff4140] blur-sm group-hover:bg-[#00ff4170] transition-all duration-300" />
             <img
-              src="/logo.png"
+              src="./logo.png"
               alt="ArchundiaXP Logo"
               className="relative w-8 h-8 rounded-full object-cover border border-[#00ff4180] group-hover:scale-105 group-hover:border-[#00ff41] shadow-[0_0_10px_#00ff4150] transition-all duration-300"
             />
@@ -584,7 +584,7 @@ function About() {
                   <div className="w-44 h-44 sm:w-52 sm:h-52 border border-[#00bfff40] rounded-full animate-spin-slow" />
                   <div className="absolute w-36 h-36 sm:w-44 sm:h-44 border border-[#00ff4130] rounded-full animate-spin-reverse-slow" />
                   <img
-                    src="/logo.png"
+                    src="./logo.png"
                     alt="Carlos Ramos - ArchundiaXP"
                     className="absolute w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover border-2 border-[#00bfff80] shadow-[0_0_25px_#00bfff60] group-hover:scale-105 group-hover:border-[#00ff41] group-hover:shadow-[0_0_35px_#00ff4180] transition-all duration-500"
                   />
@@ -1480,7 +1480,7 @@ function Contact() {
 
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3.5 w-full xl:w-auto flex-shrink-0">
               <a
-                href="/CV_Ramos_Archundia_Carlos.pdf"
+                href="./CV_Ramos_Archundia_Carlos.pdf"
                 download="CV_Ramos_Archundia_Carlos.pdf"
                 className="font-mono text-xs font-bold tracking-widest px-6 py-4 bg-[#00ff41] text-[#050505] hover:bg-[#00ff41ee] hover:shadow-[0_0_20px_#00ff41] hover:scale-105 transition-all duration-200 flex items-center justify-center gap-3 whitespace-nowrap"
               >
@@ -1495,7 +1495,7 @@ function Contact() {
                 <span>&gt; DOWNLOAD_CV.PDF [EXECUTE]</span>
               </a>
               <a
-                href="/CV_Ramos_Archundia_Carlos.pdf"
+                href="./CV_Ramos_Archundia_Carlos.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-mono text-xs font-bold tracking-widest px-6 py-4 bg-[#111118] border border-[#00ff4150] text-[#00ff41] hover:bg-[#00ff4115] hover:border-[#00ff41] hover:shadow-[0_0_15px_#00ff4130] transition-all duration-200 flex items-center justify-center gap-2 whitespace-nowrap"
@@ -1646,7 +1646,7 @@ function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="flex items-center gap-3.5">
           <img
-            src="/logo.png"
+            src="./logo.png"
             alt="ArchundiaXP Logo"
             className="w-10 h-10 rounded-full object-cover border border-[#00ff4150] shadow-[0_0_12px_#00ff4140]"
           />
