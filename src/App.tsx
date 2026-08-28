@@ -1368,9 +1368,9 @@ function Contact() {
     {
       id: "phone",
       label: "DIRECT SECURE LINE / PHONE",
-      value: "+52 55 8315 8576",
+      value: "+52 729 937 0999",
       actionText: "WHATSAPP CHAT",
-      href: "https://wa.me/525583158576?text=Hola%20Carlos,%20vi%20tu%20portafolio%20y%20me%20gustaria%20contactarte",
+      href: "https://wa.me/527299370999?text=Hola%20Carlos,%20vi%20tu%20portafolio%20y%20me%20gustaria%20contactarte",
       color: "#00bfff",
       border: "neon-border-blue",
       copyType: "phone" as const,
